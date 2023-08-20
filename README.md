@@ -20,3 +20,8 @@ And change the path to your LeetCode username.
 
 ```
 You can also edit what kind of data the bot should send you by  visiting the makers of the API `https://github.com/JeremyTsaii/leetcode-stats-api`
+
+
+#ToDo
+Reformat the Code and not have everything in the index.js
+Make it possible so you can track more than 1 User 
