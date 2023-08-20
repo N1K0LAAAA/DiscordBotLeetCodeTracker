@@ -23,5 +23,5 @@ You can also edit what kind of data the bot should send you by  visiting the mak
 
 
 # ToDo
-Reformat the Code and not have everything in the index.js
-Make it possible so you can track more than 1 User 
+<li>Reformat the Code and not have everything in the index.js</li>
+<li>Make it possible so you can track more than 1 User</li>
